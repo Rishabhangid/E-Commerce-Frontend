@@ -1,0 +1,35 @@
+# PROJECT FLOW
+
+# FRONTED PROJECT FLOW
+
+# FOLDER STRUCTURE
+> Components
+  User
+  Prodcut
+  Others  
+
+
+
+# USER COMPONENTS
+> Reigster
+> Login
+> Profile
+> Get all Users [ADMIN]
+
+# PRODUCT COMPONENTS
+> Show Products               done
+> Product Details             done
+> Realted Products            done
+> Search Products
+> Add Products [ADMIN]
+> Edit Product [ADMIN]
+> Show Product [ADMIN]
+
+# OTHER COMPONENTS 
+
+# CONTENT API EXPLAINATION
+> kuch nhi he ye, jo bhi bhi usestates, function call krte he hr component me to apn sbko ek jgh hi define kr krke pure code me khi bhi use kr skte he.
+> agr ye nhi hota to apn prorps pass krne pdte,
+> 1) PHLE EK FILE BNAO CONTNET KI USE DEFINE KRDO SARE OR DO CHIJ EXPORT KRDO
+> 2) FIR INDEX.JS KO WRAP KRDO USME 
+> 3) FIR JHA USE KRNA HE CONSUMER IMPORT KRKE, USE KRLO BY USE CONTEXT
